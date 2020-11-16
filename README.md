@@ -3,8 +3,8 @@
 
 Data from [NYC Health Dept GitHub](https://github.com/nychealth/coronavirus-data)
 
-![facet-map](img/covid-testrate_map-facet.png)
-
 ![single-map](img/covid-testrate_map-single.png)
+
+![facet-map](img/covid-testrate_map-facet.png)
 
 ![anim-map](img/covid-testrate_map-anim.gif)
